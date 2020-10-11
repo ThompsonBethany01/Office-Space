@@ -4,7 +4,7 @@
 As an employee at Initech, I've got a bad case of the *Mondays*. Could you do me a favor? The worst that could happen is we get put into a white-collar, minimum-security resort (I heard they have conjugal visits). Pinky promise!  
 ### Background
 <p align="center">
-  <img width="460" height="300" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052013/initech-edited-colors-font-vectorized.png?itok=IQhihDgr">
+  <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052013/initech-edited-colors-font-vectorized.png?itok=IQhihDgr">
 </p>  
 My friends and I work at Initech - a software consulting company for banks. They hire computer programmers to update software for the dreaded Y2k switch.
 ### Goals
