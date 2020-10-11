@@ -10,14 +10,13 @@ As an employee at Initech, I've got a bad case of the *Mondays*. Could you do me
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052013/initech-edited-colors-font-vectorized.png?itok=IQhihDgr">
 </p>  
 
-My friends and I work at Initech - a software consulting company for banks. They hire computer programmers to update software for the dreaded Y2k switch.
+My friends and I work at [Initech](https://movies.stackexchange.com/questions/726/what-kind-of-company-is-initech) - a software consulting company for banks. They hire computer programmers to update software for the dreaded Y2k switch.
 ### Goals
-We wanted to collect the leftover penny fractionals when calculating interest is rounded - and deposit these into a seperate bank acount.   
-But things didn't go as planned.  
-Rather than skimming fractions of a cent per transaction, more than $300,000 appear in the account in one day.   
+We wanted to collect the leftover penny fractionals when calculating interest is rounded - and deposit these into a seperate bank acount. But things didn't go as planned. Rather than skimming fractions of a cent per transaction, more than $300,000 appear in the account in one day.   
 My friend Michael says...   
 > "I must have put a decimal point in the wrong place or something.
 > I always do that. I always mess up some mundane detail."  
+
 We need your help to figure out what went wrong, and fix it *asap*.
 ### Data Dictionary
 ## Project Steps
@@ -37,5 +36,5 @@ We've already created the "virus". Now we need your help to fix the bug. The fun
 Now that the bug is outta the way, let's focus on the more import issue... How to calculate the perfect person-to-cake ratio?  
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/489998ff653669b17dde8aaf1c6d5ac1/tenor.gif">
+  <img src="https://i.makeagif.com/media/10-28-2015/L1ABG7.gif">
 </p> 
