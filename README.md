@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://www.bedfordjones.com/wp-content/uploads/2017/10/Office-Space-images-3691415b-de44-4ecf-a5fb-1f7b416431b-1.jpg">
 </p>  
+
 ## About The Project
 As an employee at Initech, I've got a bad case of the *Mondays*. Could you do me a favor? The worst that could happen is we get put into a white-collar, minimum-security resort (I heard they have conjugal visits). Pinky promise!  
 ### Background
