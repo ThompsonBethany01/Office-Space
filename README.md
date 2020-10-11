@@ -1,11 +1,14 @@
-![Office-Space-Logo](https://i.pinimg.com/originals/ca/30/9c/ca309cf09e217a95e9348903dad2146a.png)
 # A Case of the Mondays
+<p align="center">
+  <img src="https://www.bedfordjones.com/wp-content/uploads/2017/10/Office-Space-images-3691415b-de44-4ecf-a5fb-1f7b416431b-1.jpg">
+</p>  
 ## About The Project
 As an employee at Initech, I've got a bad case of the *Mondays*. Could you do me a favor? The worst that could happen is we get put into a white-collar, minimum-security resort (I heard they have conjugal visits). Pinky promise!  
 ### Background
 <p align="center">
   <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052013/initech-edited-colors-font-vectorized.png?itok=IQhihDgr">
 </p>  
+
 My friends and I work at Initech - a software consulting company for banks. They hire computer programmers to update software for the dreaded Y2k switch.
 ### Goals
 We wanted to collect the leftover penny fractionals when calculating interest is rounded - and deposit these into a seperate bank acount. 
