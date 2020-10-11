@@ -36,5 +36,11 @@ We've already created the "virus". Now we need your help to fix the bug. The fun
 Now that the bug is outta the way, let's focus on the more import issue... How to calculate the perfect person-to-cake ratio?  
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/10-28-2015/L1ABG7.gif">
+  <img src="https://www.teamphoria.com/wp-content/uploads/9imQZkq.jpg">
 </p> 
+
+## Author
+![Name-Tag](https://i.pinimg.com/originals/e1/56/2b/e1562bc3f546913c96df7903f57fdeb2.png)  
+
+Hope you have as much fun with this as I did making it!
+Feel free to reach out to me at thompson.bethany.01@gmail.com
