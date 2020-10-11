@@ -1,4 +1,4 @@
-import pandas as import pd
+import pandas as pd
 import numpy as np
 
 def create_data():
@@ -21,17 +21,17 @@ def create_data():
     df = pd.DataFrame(index=range(1,1001))
     
     # creating a column in the df as the account balance using random array created earlier
-    df['balances'] = pd.DataFrame(totals)
+    df['balance'] = pd.DataFrame(totals)
     
     # creating a column in the df as the interest rate using random array created earlier
     df['interest_rate'] = pd.DataFrame(interest)
     
     # creating a new column by calculating the interest with our existing columns
     # the amount of interest earned is the account balance times the interest rate
-    df['calculated_interest'] = df.balances * df.interest_rate
+    df['calculated_interest'] = df.balance * df.interest_rate
     
     # creating a new column by calculating the total with our existing columns
     # the new total is the account balance plus the interest earned
-    df['new_balance'] = df.balances + df.calculated_interest
+    df['new_balance'] = df.balance + df.calculated_interest
     
     return df
