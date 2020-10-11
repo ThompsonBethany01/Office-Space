@@ -42,6 +42,7 @@ Using numpy random number generators, a data frame of fake bank data is created.
 - interest rate
 - earned interest
 - new balance after adding earned interest  
+
 I've included the notebook which walks through the process of creating this df. The Data.py module contains this process in one function. You only need to download Data.py to generate the dataframe. However, if you want to tweak the data, feel free to do so in the notebook and add these changes to your Data.py file. I suggest making changes in the notebook first to make the process easier.
 ### Fix the Bug
 We've already created the "virus". Now we need your help to fix the bug. The function was *supposed* to take the leftover interest after being rounded. It should have been amounts less than a penny.  
@@ -53,7 +54,11 @@ As Peter Gibbons explains it,
 ## Conclusion
 Don't learn the hard way. Test your code before it's too late!
 ## How to Reproduce
-![floppy-disk-exchange](https://thumbs.gfycat.com/GroundedSophisticatedFieldmouse-size_restricted.gif)   
+
+<p align="center">
+  <img src="https://thumbs.gfycat.com/GroundedSophisticatedFieldmouse-size_restricted.gif">
+</p> 
+
 - [x] Read this Readme.md
 - [ ] Download Data.py and Virus_CDEF.ipynb (no floppy disk needed) into your working directory
     - If you get stuck, check out Solutions.ipynb also available to view or download
