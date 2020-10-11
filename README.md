@@ -46,6 +46,7 @@ Using numpy random number generators, a data frame of fake bank data is created.
 I've included the notebook which walks through the process of creating this df. The Data.py module contains this process in one function. You only need to download Data.py to generate the dataframe. However, if you want to tweak the data, feel free to do so in the notebook and add these changes to your Data.py file. I suggest making changes in the notebook first to make the process easier.
 ### Fix the Bug
 We've already created the "virus". Now we need your help to fix the bug. The function was *supposed* to take the leftover interest after being rounded. It should have been amounts less than a penny.  
+
 As Peter Gibbons explains it,  
 > "When the sub routine compounds the interest it uses all these extra decimal places that just get rounded off. So we simplified the whole thing, we rounded 
 > them all down, drop the remainder into an account we opened...Like the 7-11. You take a penny from the tray, right? Well those are whole pennies, right? I'm just 
@@ -60,9 +61,12 @@ Don't learn the hard way. Test your code before it's too late!
 </p> 
 
 - [x] Read this Readme.md
-- [ ] Download Data.py and Virus_CDEF.ipynb (no floppy disk needed) into your working directory
-    - If you get stuck, check out Solutions.ipynb also available to view or download
-- [ ] Determine if your fix will go undetected by corporate.
+- [ ] Download Data.py, Floppy_Disk.py, and Bank_Statement.py into your working directory (no floppy disks needed)
+- [ ] Fix the function in Floppy_disk.py to correctly run each transaction.
+    - If you get stuck, check out Solution.ipynb also available to view or download, this holds the correct function
+- [ ] Determine if your fix will go undetected by corporate. What's the balance?
+    - Use the function in Bank_Statement.py called deposits()
+    - Set the transactions parameter to your own liking, this is how many times an account is rounded down and we skim the change
 - [ ] ~~Set the building on fire~~
 ## Next Steps
 Now that the bug is outta the way, let's focus on the more important issue... How to calculate the perfect person-to-cake ratio?  
@@ -71,7 +75,7 @@ Now that the bug is outta the way, let's focus on the more important issue... Ho
   <img src="https://www.teamphoria.com/wp-content/uploads/9imQZkq.jpg">
 </p> 
 
-## Author
+# Author
 ![Name-Tag](https://i.pinimg.com/originals/e1/56/2b/e1562bc3f546913c96df7903f57fdeb2.png)  
 
 Hope you have as much fun with this as I did making it!

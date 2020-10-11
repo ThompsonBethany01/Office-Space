@@ -1,24 +1,21 @@
 import pandas as pd
 import numpy as np
 
-def create_data():
+def create_data(transactions):
     '''
-    Creates a df of fake bank transactions.
+    Creates a df of fake bank transactions - set the amount of transactions with this parameter.
     Includes the account total, interest rate, earned interest, and total after interest.
     Generates different random values each time function is run.
     '''
-    # set the number of observations for random values as 100,000 transactions
-    observations = 100_000
-    
-    # random floats generated with average of 8,000 and stddev of 1,500
-    totals = np.random.normal(8_000, 1_500, observations)
+   # random floats generated with average of 8,000 and stddev of 1,500
+    totals = np.random.normal(8_000, 1_500, transactions + 1)
     
     # random floats generated from [0, 1.0)
     # multiply by .1 to mimick average interest rates, typically .06
-    interest = np.random.random(observations) * .1
+    interest = np.random.random(transactions + 1) * .1
     
-    # creating an empty df with an index starting at. and ending at 1,000
-    df = pd.DataFrame(index=range(1,1001))
+    # creating an empty df with an index starting at 1 and ending at 100,000,000
+    df = pd.DataFrame(index=range(1,transactions + 1))
     
     # creating a column in the df as the account balance using random array created earlier
     df['balance'] = pd.DataFrame(totals)
