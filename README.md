@@ -61,12 +61,14 @@ Don't learn the hard way. Test your code before it's too late!
 </p> 
 
 - [x] Read this Readme.md
-- [ ] Download Data.py, Floppy_Disk.py, and Bank_Statement.py into your working directory (no floppy disks needed)
+- [ ] Download Data.py, Floppy_Disk.py, Bank_Statement.py, and Debugging.ipynb into your working directory (no floppy disks needed)
 - [ ] Fix the function in Floppy_disk.py to correctly run each transaction.
     - If you get stuck, check out Solution.ipynb also available to view or download, this holds the correct function
 - [ ] Determine if your fix will go undetected by corporate. What's the balance?
+    - Work in the Debugging notebook or create your own notebook
     - Use the function in Bank_Statement.py called deposits()
     - Set the transactions parameter to your own liking, this is how many times an account is rounded down and we skim the change
+    - Is it depositing pennies at a time like it should?
 - [ ] ~~Set the building on fire~~
 ## Next Steps
 Now that the bug is outta the way, let's focus on the more important issue... How to calculate the perfect person-to-cake ratio?  

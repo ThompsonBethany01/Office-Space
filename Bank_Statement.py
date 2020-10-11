@@ -17,7 +17,7 @@ def print_statement(deposit):
     print('____________________________________________________________\n')
     print(date.today(),'XXXXXXXXXXXXXX5976\n')
     print('BALANCE INQUIRY FROM SAVINGS')
-    print(deposit)
+    print(round(deposit,2))
     print('____________________________________________________________')
 
 def deposits(transactions):
