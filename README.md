@@ -1,6 +1,6 @@
-# A Case of the Mondays
+# A Case of the Mondays  
 <p align="center">
-  <img src="https://www.bedfordjones.com/wp-content/uploads/2017/10/Office-Space-images-3691415b-de44-4ecf-a5fb-1f7b416431b-1.jpg">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E12AQH5QLP7UTNQrg/article-cover_image-shrink_600_2000/0?e=1610582400&v=beta&t=vnmUJFfaFbU1DjFrfGe6JWXFQ5c38DTif6D-bUEHL4E">
 </p>  
 
 ## About The Project
